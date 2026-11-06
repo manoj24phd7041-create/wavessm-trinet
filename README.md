@@ -1,0 +1,1 @@
+Accurate and efficient classification of brain tumor using WaveSSM-TriNet, a tri-branch network that combines a GPU-accelerated Haar wavelet spectral decomposition branch (WSDB), a selective state-space sequence branch (SSSB), and an EfficientNet-B3 spatial convolutional branch (ESSB).
